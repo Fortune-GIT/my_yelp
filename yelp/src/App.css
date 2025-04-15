@@ -1,0 +1,18 @@
+.signout-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.signout-button:hover {
+  background-color: #0056b3;
+}
+
+.signout-button:active {
+  background-color: rgb(218, 213, 213);
+}
